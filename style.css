@@ -8,7 +8,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    font-size: 50px;
+    font-size: 75px;
 }
 
 .scene {
@@ -18,4 +18,22 @@ body {
 .ball {
     width: 1em;
     height: 1em;
+    border-radius: 50%;
+    background: lightblue;
+}
+
+.cube {
+    width: 2em;
+    height: 2em;
+    background: var(--boxColor);
+}
+
+.floor {
+    width: 5em;
+    height: 5em;
+    background-image: repeating-conic-gradient(
+        from 45deg,
+        #111 0deg 90deg,
+        #222 90deg 180deg);
+    background-size: 1em 1em;
 }
