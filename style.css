@@ -9,6 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     font-size: 75px;
+    perspective: 10em;
 }
 
 .scene {
@@ -20,20 +21,34 @@ body {
     height: 1em;
     border-radius: 50%;
     background: lightblue;
+
+    position: absolute;
+    left: -0.5em;
+    bottom: 1em;
 }
 
 .cube {
     width: 2em;
     height: 2em;
     background: var(--boxColor);
+
+    position: absolute;
+    top: -1em;
+    left: -1em;
 }
 
 .floor {
-    width: 5em;
-    height: 5em;
+    width: 15em;
+    height: 15em;
     background-image: repeating-conic-gradient(
         from 45deg,
         #111 0deg 90deg,
         #222 90deg 180deg);
     background-size: 1em 1em;
+
+    position: absolute;
+    top: 1em;
+    transform: 
+        translate(-50%, -50%)
+        rotateX(90deg);
 }
