@@ -5,3 +5,5 @@
 #2 Still need to add in the animations that are going to bring it to life
 
 #3 Looking into the animations that need to be added.
+
+#4 Alot can be done with just CSS to show cool and animated things
