@@ -7,3 +7,5 @@
 #3 Looking into the animations that need to be added.
 
 #4 Alot can be done with just CSS to show cool and animated things
+
+#5 Not feeling good today. Not coding today.
