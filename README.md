@@ -9,3 +9,5 @@
 #4 Alot can be done with just CSS to show cool and animated things
 
 #5 Not feeling good today. Not coding today.
+
+#6 Data progressing on the class side
