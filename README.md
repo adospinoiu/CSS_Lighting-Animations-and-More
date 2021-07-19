@@ -10,4 +10,4 @@
 
 #5 Not feeling good today. Not coding today.
 
-#6 Data progressing on the class side
+#6 Data progressing on the class side. Am now half way through the class and getting into higher level functions
