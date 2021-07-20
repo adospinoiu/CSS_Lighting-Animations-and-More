@@ -11,3 +11,5 @@
 #5 Not feeling good today. Not coding today.
 
 #6 Data progressing on the class side. Am now half way through the class and getting into higher level functions
+
+#7 Did not get to program today. Had to go to work early.
