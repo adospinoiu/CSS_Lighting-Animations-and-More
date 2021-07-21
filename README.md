@@ -13,3 +13,5 @@
 #6 Data progressing on the class side. Am now half way through the class and getting into higher level functions
 
 #7 Did not get to program today. Had to go to work early.
+
+#8 Had emergency today and yesterday. Did not get to program either day.
