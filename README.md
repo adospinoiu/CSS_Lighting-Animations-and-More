@@ -15,3 +15,5 @@
 #7 Did not get to program today. Had to go to work early.
 
 #8 Had emergency today and yesterday. Did not get to program either day.
+
+#9 Going on vacation. Might not make alot of progress over the next few days.
