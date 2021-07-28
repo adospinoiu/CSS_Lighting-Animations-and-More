@@ -18,4 +18,6 @@
 
 #9 Going on vacation. Might not make alot of progress over the next few days.
 
-#10 Great vacation. Now need to get back to coding.
+#10 Vacation TIME!
+
+#11 Vacation was great. Now back to coding.
