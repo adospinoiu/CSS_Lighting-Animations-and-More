@@ -17,3 +17,5 @@
 #8 Had emergency today and yesterday. Did not get to program either day.
 
 #9 Going on vacation. Might not make alot of progress over the next few days.
+
+#10 Great vacation. Now need to get back to coding.
