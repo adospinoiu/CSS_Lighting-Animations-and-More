@@ -21,3 +21,5 @@
 #10 Vacation TIME!
 
 #11 Vacation was great. Now back to coding.
+
+#12 Moving through the data analysis. More than half way done now.
