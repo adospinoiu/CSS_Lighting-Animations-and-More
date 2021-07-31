@@ -23,3 +23,5 @@
 #11 Vacation was great. Now back to coding.
 
 #12 Moving through the data analysis. More than half way done now.
+
+#13 Back into a rythm now with the data anlysis.
