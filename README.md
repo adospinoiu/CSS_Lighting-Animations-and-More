@@ -27,3 +27,5 @@
 #13 Back into a rythm now with the data anlysis.
 
 #14 Making good progress on the data analysis
+
+#15 Back to daily coding now.
