@@ -29,3 +29,5 @@
 #14 Making good progress on the data analysis
 
 #15 Back to daily coding now.
+
+#16 Almost finished with the next class. Progressing through it.
