@@ -31,3 +31,5 @@
 #15 Back to daily coding now.
 
 #16 Almost finished with the next class. Progressing through it.
+
+#17 Taking last test tomorrow for current class. That will complete 5 of 8 classes.
