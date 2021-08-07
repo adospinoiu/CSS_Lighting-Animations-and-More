@@ -33,3 +33,5 @@
 #16 Almost finished with the next class. Progressing through it.
 
 #17 Taking last test tomorrow for current class. That will complete 5 of 8 classes.
+
+18 Didn't get to take the test today. Watched the stacking of SpaceX Rocket. Will Take it tomorrow.
