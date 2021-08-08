@@ -34,4 +34,6 @@
 
 #17 Taking last test tomorrow for current class. That will complete 5 of 8 classes.
 
-18 Didn't get to take the test today. Watched the stacking of SpaceX Rocket. Will Take it tomorrow.
+#18 Didn't get to take the test today. Watched the stacking of SpaceX Rocket. Will Take it tomorrow.
+
+#19 Finished the 5th course! Only three left now to complete the whole data program
