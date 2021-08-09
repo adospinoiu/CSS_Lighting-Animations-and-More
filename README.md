@@ -37,3 +37,5 @@
 #18 Didn't get to take the test today. Watched the stacking of SpaceX Rocket. Will Take it tomorrow.
 
 #19 Finished the 5th course! Only three left now to complete the whole data program
+
+#20 Made really good progress on the 6th course today.
