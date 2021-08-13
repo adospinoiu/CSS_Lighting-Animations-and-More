@@ -45,3 +45,5 @@
 #22 Half-way through (i.e. week 2) of the 6th class of the 8-class program.
 
 #23 Wrapped up Week 3 of the 6th-class. Now on Week 4.
+
+#24 On the course-test of Week-4. Almost done with the 6th-Class
