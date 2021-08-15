@@ -46,4 +46,6 @@
 
 #23 Wrapped up Week 3 of the 6th-class. Now on Week 4.
 
-#24 On the course-test of Week-4. Almost done with the 6th-Class
+#24 On the course-test of Week-4. Almost done with the 6th-Class.
+
+#25 6th-Class is now done. Moved on to the 7th-Class (last class before capstone project)
