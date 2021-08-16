@@ -51,3 +51,5 @@
 #25 6th-Class is now done. Moved on to the 7th-Class (last class before capstone project)
 
 #26 R-Programming is what the 7th-Class if for. Final class before the capstone project.
+
+#27 Getting into R-Programming now. Syntax is slighlty different. But not terribly complicated.
