@@ -53,3 +53,5 @@
 #26 R-Programming is what the 7th-Class if for. Final class before the capstone project.
 
 #27 Getting into R-Programming now. Syntax is slighlty different. But not terribly complicated.
+
+#28 Something is going on with the 7th-Class. It is blocking me from moving forward at my own page. Start is August 23rd ...
