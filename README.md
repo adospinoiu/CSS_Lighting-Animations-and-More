@@ -57,3 +57,5 @@
 #28 Something is going on with the 7th-Class. It is blocking me from moving forward at my own page. Start is August 23rd ...
 
 #29 Moving along watching all the videos and reading all the readings until the class starts.
+
+#30 Made progress now. Completed Week-2 of the 7th Class.
