@@ -55,3 +55,5 @@
 #27 Getting into R-Programming now. Syntax is slighlty different. But not terribly complicated.
 
 #28 Something is going on with the 7th-Class. It is blocking me from moving forward at my own page. Start is August 23rd ...
+
+#29 Moving along watching all the videos and reading all the readings until the class starts.
