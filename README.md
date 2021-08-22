@@ -59,3 +59,5 @@
 #29 Moving along watching all the videos and reading all the readings until the class starts.
 
 #30 Made progress now. Completed Week-2 of the 7th Class.
+
+#31 On the last week of the 7th-Class. Will wrap up this weekend.
