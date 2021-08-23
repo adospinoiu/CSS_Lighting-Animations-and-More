@@ -61,3 +61,5 @@
 #30 Made progress now. Completed Week-2 of the 7th Class.
 
 #31 On the last week of the 7th-Class. Will wrap up this weekend.
+
+#32 On the last (5th week) wrapping up the last examp to finish the 7-th class
