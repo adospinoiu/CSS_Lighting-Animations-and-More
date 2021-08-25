@@ -65,3 +65,5 @@
 #32 On the last (5th week) wrapping up the last examp to finish the 7-th class.
 
 #33 Completed! Now on the 8th and final class. There are 4-weeks in this class. Going to wrap up ASAP.
+
+#34 On the 2nd week of the 8th-class. There are a total of 4-weeks in this class.
