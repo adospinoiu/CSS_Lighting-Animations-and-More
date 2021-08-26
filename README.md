@@ -67,3 +67,5 @@
 #33 Completed! Now on the 8th and final class. There are 4-weeks in this class. Going to wrap up ASAP.
 
 #34 On the 2nd week of the 8th-class. There are a total of 4-weeks in this class.
+
+#35 Progressed to the 3rd-week of the 8th-Class.
