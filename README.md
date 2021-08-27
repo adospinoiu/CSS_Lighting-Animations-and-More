@@ -69,3 +69,5 @@
 #34 On the 2nd week of the 8th-class. There are a total of 4-weeks in this class.
 
 #35 Progressed to the 3rd-week of the 8th-Class.
+
+#36 Still making good progress on the 8th-Class to wrap up the certificate.
