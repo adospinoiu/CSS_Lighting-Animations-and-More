@@ -71,3 +71,5 @@
 #35 Progressed to the 3rd-week of the 8th-Class.
 
 #36 Still making good progress on the 8th-Class to wrap up the certificate.
+
+#37 Vacation Time!!! Not going to be coding over the next few days or working on the 8th-Class
