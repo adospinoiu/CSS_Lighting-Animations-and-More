@@ -75,3 +75,5 @@
 #37 Vacation Time!!! Not going to be coding over the next few days or working on the 8th-Class
 
 #38 Last day of vacation!
+
+#39 Back it at. Going to try to wrap up the class tomorrow.
