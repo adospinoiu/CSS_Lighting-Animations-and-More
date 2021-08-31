@@ -77,3 +77,5 @@
 #38 Last day of vacation!
 
 #39 Back it at. Going to try to wrap up the class tomorrow.
+
+#40 COMPLETED the Google Data Analysis Certificate!!!
