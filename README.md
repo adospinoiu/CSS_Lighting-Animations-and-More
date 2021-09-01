@@ -79,3 +79,5 @@
 #39 Back it at. Going to try to wrap up the class tomorrow.
 
 #40 COMPLETED the Google Data Analysis Certificate!!!
+
+#41 Going to make some more progress on the reading app
